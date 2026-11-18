@@ -26,9 +26,9 @@ This repository contains circuit designs and software developed for research inv
 ## Author
 
 Joseph Berry  
-University of Oklahoma
-School of Electrical and Computer Engineering
-School of Meteorology 
+-University of Oklahoma
+-School of Electrical and Computer Engineering
+-School of Meteorology 
 
 
 
