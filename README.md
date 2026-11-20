@@ -1,7 +1,7 @@
 
 # Electric Field Change Measurements and Lightning Observations
 
-This repository contains circuit designs and software developed for research involving slow antennas and optical verification of long continuing current (LCC) lightning. Additionally, designs for a novel diametrically loaded loop antenna for lightning research and an Active Bias Integrator (ABI) charge amplifier for slow antenna applications are presented. Much of this work is described in the Author's Master's Thesis 'DESIGN AND IMPLEMENTATION OF A SLOW ANTENNA FOR OBSERVING LONG CONTINUING CURRENT LIGHTNING'
+This repository contains circuit designs and software developed for research involving slow antennas and optical verification of long continuing current (LCC) lightning. Additionally, designs for a novel diametrically loaded loop antenna for lightning research and an Active Bias Integrator (ABI) charge amplifier for slow antenna applications are presented. Much of this work is described in 'DESIGN AND IMPLEMENTATION OF A SLOW ANTENNA FOR OBSERVING LONG CONTINUING CURRENT LIGHTNING', Master's Thesis. 
 
 
 ## Repository Contents
